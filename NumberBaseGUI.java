@@ -1,6 +1,4 @@
-//Stephen Madigan
-//Assignment 1
-//
+
 
 import java.awt.*;
 import java.awt.event.*;
